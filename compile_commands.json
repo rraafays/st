@@ -1,0 +1,38 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/x86_64-pc-linux-gnu-gcc",
+      "-std=c99",
+      "-pedantic",
+      "-U_FORTIFY_SOURCE",
+      "-I/usr/X11R6/include",
+      "-I/usr/include/freetype2",
+      "-I/usr/include/freetype2",
+      "-DVERSION=\"0.9\"",
+      "-D_XOPEN_SOURCE=600",
+      "-O1",
+      "-c",
+      "st.c"
+    ],
+    "directory": "/home/raf/Development/st",
+    "file": "/home/raf/Development/st/st.c"
+  },
+  {
+    "arguments": [
+      "/usr/bin/x86_64-pc-linux-gnu-gcc",
+      "-std=c99",
+      "-pedantic",
+      "-U_FORTIFY_SOURCE",
+      "-I/usr/X11R6/include",
+      "-I/usr/include/freetype2",
+      "-I/usr/include/freetype2",
+      "-DVERSION=\"0.9\"",
+      "-D_XOPEN_SOURCE=600",
+      "-O1",
+      "-c",
+      "x.c"
+    ],
+    "directory": "/home/raf/Development/st",
+    "file": "/home/raf/Development/st/x.c"
+  }
+]
