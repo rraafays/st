@@ -1,5 +1,4 @@
 .cache/
-config.h
 st.o
 x.o
 st
